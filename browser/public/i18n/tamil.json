@@ -1,0 +1,566 @@
+{
+  "contact": "Contact",
+  "mainHeader": "உங்கள் வெற்றி உங்கள் கையில்",
+  "main": {
+    "top-header": {
+      "start": "தமிழ்நாட்டில் நம்பிக்கையான  மற்றும்  வெற்றிகரமான   ",
+      "english": "இலவச Beautician",
+      "next-start": "பயிற்சி உங்களுக்காக. சுயமாக  சம்பாதிக்க நினைக்கும் உங்கள் மிகப்பெரிய  கனவை",
+      "end": "நினைவாக்குங்கள்",
+      "learn": "+ பயிற்சி பெற்ற மாணவர்கள்"
+    },
+    "userName": "Krishnaveni",
+    "profession": "Women’s Business Coach",
+    "header": "Housewife To Business Owner",
+    "subHeader": "Housewife To Business Owner",
+    "aboutMe": "Lorem ipsum dolor sit amet consectetur adipisicing elit consectetur adipisicing elit!",
+    "chatBtn": "Register ",
+    "amount": "@ ₹299/-",
+    "entrolment": {
+      "register": "அடுத்த 20 நிமிடத்திற்குள்",
+      "end": "செய்யுங்கள்",
+      "limitted": "Limited Seats. Enrollment closes fastly",
+      "minute": "Minutes",
+      "seconds": "Seconds",
+      "dtls": {
+          "date": "15th NOV 2024",
+          "time": "6:00 PM - 7.30 PM",
+          "totalTime": "90 Minutes",
+          "workShop": "Tamil"
+        }
+    },
+    "workshop": {
+      "header": "ஏன் இந்த பயிற்சியில் கலந்து கொள்ள வேண்டும்?",
+      "body": [
+        "சுய தொழில் செய்ய வேண்டும்",
+        "வாங்கும் சம்பளம் போதவில்லை. கூடுதல் வருமானம் வேண்டும்",
+        "Beautician கற்றுக்கொள்ள லட்சியம் உள்ளவர்கள்",
+        "பகுதி நேர வருமானம் வேண்டும்",
+        "Beautician நிபுணராக வேண்டும்",
+        "Beautician Certificate வேண்டும்",
+        "Beautician ஆர்வம் உள்ளவர்கள்",
+        "வெளியில் செல்லாமல் வீட்டிலேயே கற்றுக்கொள்ள வேண்டும்",
+        "Advance Beautician Course கற்றுக்கொள்ள வேண்டும்",
+        "தொழிலில் மாற்றம் வேண்டும்"
+      ]
+    }
+  },
+  "bonus": {
+      "section": [
+        {
+          "extra": "Threading",
+          "bonus": "Bonus",
+          "offer": "Special Offer",
+          "class": "Threading Class",
+          "content": "கற்ற பிறகு மாதம் ரூ.1000 - 5000 சம்பாதிக்கலாம்."
+        },
+        {
+          "extra": "Saree Draping",
+          "bonus": "Bonus",
+          "offer": "Special Offer",
+          "class": "Saree Draping",
+          "content": "இதைக் கற்றுக்கொண்ட பிறகு, உங்கள் வீட்டு சுப நிகழ்ச்சி மற்றும் விழாக்களுக்கு உங்கள் புடவையை Saree Draping செய்து, மிகவும் அழகான பெண்களாக தோற்றம் அளிக்கலாம்."
+        }
+      ]
+    },
+  "learn": {
+    "header": "நீங்கள் இந்த Beautician Training ல் என்ன கற்றுக் கொள்வீர்கள் ?",
+    "subHeader": "Everything in the workshop is backed by Science in the Hour Online Workshop.",
+    "services": [
+      {
+        "image": "bridal.png",
+        "title": "Bridal Makeup",
+        "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
+        "value": "Value : ",
+        "strikeValue": "₹30000",
+        "free": "Free"
+      },
+      {
+        "image": "facial.png",
+        "title": "Facial",
+        "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
+        "value": "Value : ",
+        "strikeValue": "₹7000",
+        "free": "Free"
+      },
+      {
+        "image": "threading.png",
+        "title": "Threading",
+        "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
+        "value": "Value : ",
+        "strikeValue": "₹1000",
+        "free": "Free"
+      },
+      {
+        "image": "HairStyling.png",
+        "title": "Hair Styling",
+        "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
+        "value": "Value : ",
+        "strikeValue": "₹5000",
+        "free": "Free"
+      },
+      {
+        "image": "SareeDraping.jpg",
+        "title": "Saree Draping",
+        "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
+        "value": "Value : ",
+        "strikeValue": "₹3000",
+        "free": "Free"
+      },
+      {
+        "image": "Mehendi.webp",
+        "title": "Mehendi",
+        "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
+        "value": "Value : ",
+        "strikeValue": "₹3000",
+        "free": "Free"
+      },
+      {
+        "image": "NailArt.png",
+        "title": "Nail Art",
+        "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
+        "value": "Value : ",
+        "strikeValue": "₹2000",
+        "free": "Free"
+      },
+      {
+        "image": "Menicure.png",
+        "title": "Manicure",
+        "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
+        "value": "Value : ",
+        "strikeValue": "₹2000",
+        "free": "Free"
+      },
+      {
+        "image": "Pedicure.png",
+        "title": "Pedicure",
+        "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor",
+        "value": "Value : ",
+        "strikeValue": "₹2000",
+        "free": "Free"
+      }
+    ],
+    "confirmation": "இந்த எல்லாம் வகுப்புகளின் மொத்த  மதிப்பு ",
+    "amount":  "Rs.55000",
+    "free": " அனைத்தும் உங்களுக்காக இலவசமாக கற்றுத்தர போகிறோம்."
+  },
+  "scenario": {
+    "header": "Can You Relate To Any Of These Scenarios?",
+    "scenarioCheck": [
+      {
+        "id": "bordered-checkbox-1",
+        "label": "You have a passion but don't know how to start a business and earn money"
+      },
+      {
+        "id": "bordered-checkbox-2",
+        "label": "You no longer want to depend on your family or husband for financial support"
+      },
+      {
+        "id": "bordered-checkbox-3",
+        "label": "You are feeling lost and facing an identity crisis and no clarity about life"
+      },
+      {
+        "id": "bordered-checkbox-4",
+        "label": "You want to add another stream of income and support your family"
+      },
+      {
+        "id": "bordered-checkbox-5",
+        "label": "Procrastination is keeping you away from achieving your dreams with your family"
+      },
+      {
+        "id": "bordered-checkbox-6",
+        "label": "You are rebuilding your career after a long break but job options are slim"
+      }
+    ],
+    "confirmation": "If you ticked any of the above boxes, then this workshop is for you."
+  },
+  "attend": {
+    "header": "இந்த  Beautician Training  யார் யார் கலந்து கொள்ளலாம் ?",
+    "subHeader": "Who wants to take their business to the next stage by avoiding Mistakes and taking the right Action.",
+    "categoryItems": [
+      {
+        "image": "houseWife",
+        "alt": "business",
+        "label": "இல்லத்தரசிகள்"
+      },
+      {
+        "image": "collegeGirl",
+        "alt": "architect",
+        "label": "கல்லூரி மாணவிகள்"
+      },
+      {
+        "image": "enterpernur",
+        "alt": "businessman",
+        "label": "தொழில்முனைவோர்"
+      },
+      {
+        "image": "lowIncome",
+        "alt": "manufacturing",
+        "label": "குறைந்த வருமானம் கொண்ட பெண்கள்"
+      },
+      {
+        "image": "unEmployed",
+        "alt": "medical",
+        "label": "வேலையில்லாத பெண்கள்"
+      },
+      {
+        "image": "singleMother",
+        "alt": "service",
+        "label": "ஒற்றை தாய்மார்கள்"
+      }
+    ]
+  },
+  "register": {
+    "entrolment": "Enrollment closes on",
+    "seat": "Limited Seats Left"
+  },
+  "testimonals": {
+    "header": "What Our Users Says",
+    "subHeader": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form.",
+    "slides": [
+      {
+        "id": 0,
+        "userSays": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community",
+        "name": "Musharof Chy",
+        "company": "Founder TailGrids",
+        "image": "testimonals_1"
+      },
+      {
+        "id": 1,
+        "userSays": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community",
+        "name": "Devid Weilium",
+        "company": "Founder UIdeck",
+        "image": "testimonals_2"
+      },
+      {
+        "id": 2,
+        "userSays": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community",
+        "name": "Lethium Frenci",
+        "company": "Founder Lineicons",
+        "image": "testimonals_3"
+      },
+      {
+        "id": 4,
+        "userSays": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community",
+        "name": "Musharof Chy",
+        "company": "Founder TailGrids",
+        "image": "testimonals_1"
+      }
+    ]
+  },
+  "faq": {
+    "header": "அடிக்கடி கேட்கப்படும் கேள்விகள்",
+    "left": [
+      {
+        "title": "இந்த பயிற்சி வகுப்பு எப்படி  நடைபெறும் ?",
+        "content": "ZOOM App மூலம் ஆன்லைனில் நடத்தப்படும். நீங்கள் இந்தியாவின் எந்தப் பகுதியிலிருந்தும் உங்கள் Mobile/Laptop மூலம்  பங்கு  பெறலாம்",
+        "open": true
+      },
+      {
+        "title": "நிகழ்ச்சியில் கலந்துகொள்வதற்கான இணைப்பை எவ்வாறு பெறுவது ?",
+        "content": "இலவச  வகுப்பு  நடக்கும்  நாட்களில் உங்கள் 'WhatsApp' எண்ணுக்கு அனுப்பபடும்",
+        "open": true
+      },
+      {
+        "title": "இந்த இலவச பயிற்சியில் கலந்து கொள்ள ஏதேனும் கட்டணம் உள்ளதா?",
+        "content": "பொதுவாக  ₹999 கட்டணம் வாங்கபடும்.  ஆனால் ஆன்லைன் என்பதால் நீங்கள் இலவசமாக  கலந்து கொள்ளலாம்",
+        "open": true
+      }
+    ],
+    "right": [
+      {
+        "title": "இந்த ஆன்லைன் வகுப்பு, Record செய்யப்படுமா?",
+        "content": "நிச்சயமாக நாங்கள் 'Recording' செய்ய மாட்டோம்.  கண்டிப்பாக நேரலையில் மட்டுமே கலந்து கொள்ள வேண்டும்",
+        "open": true
+      },
+      {
+        "title": "எந்த மொழியில் இந்த பயிற்சி நடக்கும் ?",
+        "content": "இந்த பயிற்சி தமிழில் நடத்தப்படும்",
+        "open": true
+      },
+      {
+        "title": "இந்த Beautician Training முடித்த பிறகு சான்றிதழ் வழங்குவீர்களா?",
+        "content": "இந்தப் Beautician Training முழுமையாக முடிப்பவகளுக்கு, கண்டிப்பாக சான்றிதழ் வழங்கப்படும்.",
+        "open": true
+      }
+    ]
+  },
+  "footer": {
+    "offerPrice": "Free",
+    "originalPrice": "₹ 299",
+    "signUp": "Sign Up Now For Workshop",
+    "offer": "Offer Expires in",
+    "minute": "Minutes",
+    "seconds": "Seconds",
+    "join": "Join Now"
+
+  },
+  "team": {
+    "header": "RMAS Health & Beauty Care பயிற்சியாளர்கள்",
+    "subHeader": "This is the paragraph where you can write more details about your team. Keep you user engaged by providing meaningful information.",
+    "members": [ 
+      {
+        "image": "Ayyenshwari",
+        "name": "Ayyenshwari",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Buvenaswari",
+        "name": "Buvenaswari",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "DeepaLakshmi",
+        "name": "Deepa Lakshmi",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Deepika",
+        "name": "Deepika",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Dharani",
+        "name": "Dharani",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Esakkiammal",
+        "name": "Esakkiammal",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Gokila",
+        "name": "Gokila",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Hamsaveni",
+        "name": "Hamsaveni",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Jothika",
+        "name": "Jothika",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Kanchana",
+        "name": "Kanchana",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "karthika",
+        "name": "karthika",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Kasthuri",
+        "name": "Kasthuri",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Kowsalya",
+        "name": "Kowsalya",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "LakshmiDeepika",
+        "name": "Lakshmi Deepika",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Maheshwari",
+        "name": "Maheshwari",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Mahisha",
+        "name": "Mahisha",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Mareeswari",
+        "name": "Mareeswari",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Meena",
+        "name": "Meena",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Mohana",
+        "name": "Mohana S",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Nandhini",
+        "name": "Nandhini",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Nandhinikumari",
+        "name": "Nandhini Kumari",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Packyalakshmi",
+        "name": "Packyalakshmi",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Ponni",
+        "name": "Ponni",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Preetha",
+        "name": "Preetha",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Priya",
+        "name": "Priya",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Rajeshwari",
+        "name": "Rajeshwari",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Ramya",
+        "name": "Ramya",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Revathi",
+        "name": "Revathi",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "RevathiP",
+        "name": "Revathi P",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Sandhiya",
+        "name": "Sandhiya",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Saranya",
+        "name": "Saranya",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "saranyaSankar",
+        "name": "Saranya Sankar",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Sheela",
+        "name": "Sheela",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Sneha",
+        "name": "Sneha",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Subbulakshmi",
+        "name": "Subbulakshmi",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "SujithaS",
+        "name": "Sujitha S",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Tamilselvi",
+        "name": "Tamil Selvi",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "tamilArasi",
+        "name": "Tamil Arasi",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "Valarmathi",
+        "name": "Valarmathi",
+        "designation": "Beautician Trainer"
+      },
+      {
+        "image": "VijayaLakshmi",
+        "name": "Vijaya Lakshmi",
+        "designation": "Beautician Trainer"
+      }
+    ]
+  },
+  "whatWillChange": {
+    "header": "இந்த RMAS Beautician Course கற்றுக் கொள்வதால் ,  உங்கள் வாழ்க்கையில் என்ன மாற்றம் ஏற்படும் ?",
+    "sections": [
+      "உங்களுடைய  பணத் தேவைகள் அனைத்தும் பூர்த்தியாகும்",
+      "நீங்கள் சொந்தமாக அழகு நிலையம்(Beauty Parlour) தொடங்கலாம்",
+      "சொந்தமாக சுப நிகழ்ச்சிகளுக்கு  நீங்களே Beautician Makeup ஆர்டரை எடுக்கலாம்",
+      "உங்கள் வீட்டு நிகழ்ச்சிகளுக்கு  நீங்களே  'Makeup' செய்து கொள்ளலாம்",
+      "நீங்கள் RMASல் பயிற்சியாளராக பணியாற்றலாம்"
+    ]
+  },
+  "video": {
+    "header": "Testimonial Videos",
+    "subHeader": "RMAS Beautician Training கற்று முடித்த எங்கள் மாணவர்களின் வெற்றிகள்",
+    "videos": [
+      {
+        "image": "https://img.youtube.com/vi/e6BbUCWNbvA/0.jpg",
+        "url": "https://www.youtube.com/watch?v=e6BbUCWNbvA",
+        "name": "Mareeswari",
+        "desgnation": ""
+      },
+      {
+        "image": "https://img.youtube.com/vi/YUBIjk057k8/0.jpg",
+        "url": "https://www.youtube.com/watch?v=YUBIjk057k8",
+        "name": "Saranya Sankar",
+        "desgnation": ""
+      },
+      {
+        "image": "https://img.youtube.com/vi/5nRyE5oXZ8U/0.jpg",
+        "url": "https://www.youtube.com/watch?v=5nRyE5oXZ8U",
+        "name": "Lakshmi Deepika",
+        "desgnation": ""
+      },
+      {
+        "image": "https://img.youtube.com/vi/Ocj-WsoGI-E/0.jpg",
+        "url": "https://www.youtube.com/watch?v=Ocj-WsoGI-E",
+        "name": "Mohana S",
+        "desgnation": ""
+      }
+    ]
+  },
+  "formPopup": {
+    "header":"நீங்கள் இந்த இலவச ",
+    "subHeader": "Beautician ",
+    "dtlHeader": "பயிற்சியில் சேர இப்போதே ",
+    "register": "Register ",
+    "dtl": "செய்யவும்.  உங்கள் சுய தொழில்  செய்யும் கனவை  இங்கிருந்து தொடங்குங்கள்.",
+    "name": {
+      "plaseHolder": "உங்கள் பெயர் / Name",
+      "minLengthValidation": "Your name is required.",
+      "mandatoryValidation": "Your name should be 3 character."
+    },
+    "phone": {
+      "plaseHolder": "வாட்ஸ்அப் எண் / WhatsApp Number",
+      "minLengthValidation": "Contact number is required.",
+      "mandatoryValidation": "Contact number should be 10 digits."
+    },
+    "details": {
+      "plaseHolder": "எதுக்கு நீங்கள் இந்த beautician course இல் சேர விரும்புறீர்கள் ?",
+      "minLengthValidation": "",
+      "mandatoryValidation": "Your message is required."
+    }
+  }
+}

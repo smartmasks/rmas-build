@@ -1,0 +1,317 @@
+{
+    "contact": "Contact",
+    "mainHeader": "Housewife To Business Owner",
+    "main": {
+      "top-header": {
+      "start": "Lorem ipsum dolor sit amet consectetur elit.",
+      "english": "Beautician",
+      "next-start": "Lorem ipsum dolor sit amet. consectetur adipisicing elit consectetur adipisicing elit",
+      "end": "Lorem ipsum dolor sit amet"
+    },
+      "userName": "Krishnaveni",
+      "profession": "Women’s Business Coach",
+      "header": "Housewife To Business Owner",
+      "subHeader": "Lorem ipsum dolor sit amet consectetur elit.",
+      "aboutMe": "Lorem ipsum dolor sit amet consectetur adipisicing elit consectetur adipisicing elit!",
+      "chatBtn": "Register @ ₹99/-",
+      "entrolment": {
+        "register": "Enrollment closes on ",
+        "end": "in Next 20 Mints",
+        "limitted": "Limited Seats. Enrollment closes fastly",
+        "minute": "Minutes",
+        "seconds": "Seconds",
+        "dtls": {
+          "date": "15th NOV 2024",
+          "time": "9:30 AM - 12.30 PM",
+          "totalTime": "Total 3 Hours",
+          "workShop": "English"
+        }
+      },
+      "workshop": {
+        "header": "Why attend this workshop?",
+        "body": [
+          "Reprogram your mind to attract what you desire",
+          "Get rid of your limiting beliefs",
+          "Achieve success in all areas of your life.",
+          "Find real root cause of your sufferings and end them",
+          "Start feeling more relaxed and calm after attending",
+          "Reprogram your mind to attract what you desire",
+          "Get rid of your limiting beliefs",
+          "Achieve success in all areas of your life.",
+          "Find real root cause of your sufferings and end them",
+          "Start feeling more relaxed and calm after attending"
+        ]
+      }
+    },
+    "bonus": {
+      "section": [
+        {
+          "extra": "Extra",
+          "bonus": "Bonus",
+          "offer": "Special Offer",
+          "class": "Threading Class",
+          "content": "You are rebuilding your career after a long break but job options are slim"
+        },
+        {
+          "extra": "Extra",
+          "bonus": "Bonus",
+          "offer": "Special Offer",
+          "class": "Saree Draping",
+          "content": "You have a passion but don't know how to start a business and earn money"
+        }
+      ]
+    },
+    "learn": {
+      "header": "What You Will Learn",
+      "subHeader": "Everything in the workshop is backed by Science in the Hour Online Workshop.",
+      "services": [
+        {
+          "icon": "skinny",
+          "title": "Skin Theory",
+          "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor"
+        },
+        {
+          "icon": "hair",
+          "title": "Hair Theory",
+          "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor"
+        },
+        {
+          "icon": "hair_class",
+          "title": "Hair Classes",
+          "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor"
+        },
+        {
+          "icon": "hair_cut",
+          "title": "Hair Style",
+          "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor"
+        },
+        {
+          "icon": "saree",
+          "title": "Saree Draping",
+          "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor"
+        },
+        {
+          "icon": "nail",
+          "title": "Nail Art",
+          "description": "Kobita tumi sopno charini hoye ersest labo met, consectetur adipi ctetur adipisicing eod tempor"
+        }
+      ]
+    },
+    "scenario": {
+      "header": "Can You Relate To Any Of These Scenarios?",
+      "scenarioCheck": [
+        {
+          "id": "bordered-checkbox-1",
+          "label": "You have a passion but don't know how to start a business and earn money"
+        },
+        {
+          "id": "bordered-checkbox-2",
+          "label": "You no longer want to depend on your family or husband for financial support"
+        },
+        {
+          "id": "bordered-checkbox-3",
+          "label": "You are feeling lost and facing an identity crisis and no clarity about life"
+        },
+        {
+          "id": "bordered-checkbox-4",
+          "label": "You want to add another stream of income and support your family"
+        },
+        {
+          "id": "bordered-checkbox-5",
+          "label": "Procrastination is keeping you away from achieving your dreams with your family"
+        },
+        {
+          "id": "bordered-checkbox-6",
+          "label": "You are rebuilding your career after a long break but job options are slim"
+        }
+      ],
+      "confirmation": "If you ticked any of the above boxes, then this workshop is for you."
+    },
+    "attend": {
+      "header": "Who Should Attend The Workshop?",
+      "subHeader": "Who wants to take their business to the next stage by avoiding Mistakes and taking the right Action.",
+      "categoryItems": [
+        {
+          "image": "business",
+          "alt": "business",
+          "label": "Business Owners"
+        },
+        {
+          "image": "architect",
+          "alt": "architect",
+          "label": "Consultants, Architects"
+        },
+        {
+          "image": "businessman",
+          "alt": "businessman",
+          "label": "Solopreneurs"
+        },
+        {
+          "image": "manufacturing",
+          "alt": "manufacturing",
+          "label": "Dealers, Manufacturers"
+        },
+        {
+          "image": "medical",
+          "alt": "medical",
+          "label": "Medical Field Businesses"
+        },
+        {
+          "image": "service",
+          "alt": "service",
+          "label": "Service Providers"
+        }
+      ]
+    },
+    "register": {
+      "entrolment": "Enrollment closes on",
+      "seat": "Limited Seats Left"
+    },
+    "testimonals": {
+      "header": "What Our Users Says",
+      "subHeader": "There are many variations of passages of Lorem Ipsum available but the majority have suffered alteration in some form.",
+      "slides": [
+        {
+          "id": 0,
+          "userSays": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community",
+          "name": "Musharof Chy",
+          "company": "Founder TailGrids",
+          "image": "testimonals_1"
+        },
+        {
+          "id": 1,
+          "userSays": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community",
+          "name": "Devid Weilium",
+          "company": "Founder UIdeck",
+          "image": "testimonals_2"
+        },
+        {
+          "id": 2,
+          "userSays": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community",
+          "name": "Lethium Frenci",
+          "company": "Founder Lineicons",
+          "image": "testimonals_3"
+        },
+        {
+          "id": 4,
+          "userSays": "Our members are so impressed. It's intuitive. It's clean. It's distraction free. If you're building a community",
+          "name": "Musharof Chy",
+          "company": "Founder TailGrids",
+          "image": "testimonals_1"
+        }
+      ]
+    },
+    "faq": {
+      "header": "Frequently Asked Questions",
+      "left": [
+        {
+          "title": "Where is the Workshop?",
+          "content": "The Workshop will be hosted ONLINE on ZOOM & you can join from any part of the INDIA, from your mobile or laptop.",
+          "open": false
+        },
+        {
+          "title": "What is the date & time of the Workshop?",
+          "content":
+            "Sunday 03rd November 2024, 9:30 am IST",
+          "open": false
+        },
+        {
+          "title": "Will I get reminders before the Workshop begins?",
+          "content":
+            "Yes, you will be reminded via emails, SMS & WhatsApp.",
+          "open": false
+        }
+      ],
+      "right": [
+        {
+          "title": "Is there any fee to join?",
+          "content":
+            "The workshop is usually priced at ₹1999 offline but the online webinar is ₹99 & covers the same content.",
+          "open": false
+        },
+        {
+          "title": "Is this a one-way or interactive Workshop?",
+          "content":
+            "It’s an interactive live workshop.",
+          "open": false
+        },
+        {
+          "title": "Is there a refund Policy?",
+          "content":
+            "Post attending this online workshop incase your are dissatisfied you can write an email to support@i2tym.in to request a refund.",
+          "open": false
+        }
+      ]
+    },
+    "footer": {
+      "offerPrice": "₹ 99",
+      "originalPrice": "₹999",
+      "signUp": "Sign Up Now For Workshop",
+      "offer": "Offer Expires in",
+      "minute": "Minutes",
+      "seconds": "Seconds",
+      "join": "Join Now"
+    },
+    "team": {
+      "header": "Meet Our Team",
+      "subHeader": "This is the paragraph where you can write more details about your team. Keep you user engaged by providing meaningful information.",
+      "members": [ 
+        {
+          "image": "team_1",
+          "name": "Nora Hazel",
+          "designation": "Beautician"
+        },
+        {
+          "image": "team_2",
+          "name": "Nora Hazel",
+          "designation": "Beautician"
+        },
+        {
+          "image": "team_3",
+          "name": "Nora Hazel",
+          "designation": "Beautician"
+        },
+        {
+          "image": "team_4",
+          "name": "Nora Hazel",
+          "designation": "Beautician"
+        },
+        {
+          "image": "team_1",
+          "name": "Nora Hazel",
+          "designation": "Beautician"
+        },
+        {
+          "image": "team_2",
+          "name": "Nora Hazel",
+          "designation": "Beautician"
+        },
+        {
+          "image": "team_3",
+          "name": "Nora Hazel",
+          "designation": "Beautician"
+        },
+        {
+          "image": "team_4",
+          "name": "Nora Hazel",
+          "designation": "Beautician"
+        },
+        {
+          "image": "team_1",
+          "name": "Nora Hazel",
+          "designation": "Beautician"
+        }
+      ]
+    },
+    "whatWillChange": {
+    "header": "இந்த RMAS Beautician Course கற்றுக் கொள்வதால் ,  உங்கள் வாழ்க்கையில் என்ன மாற்றம் ஏற்படும் ?",
+    "sections": [
+      "உங்களுக்கு இனிமேல் எந்த பண பிரச்சனையும் இருக்காது.",
+      "நீங்கள் சொந்தமாக அழகு நிலையம்(Beauty Parlour) தொடங்கலாம்",
+      "சொந்தமாக சுப நிகழ்ச்சிகளுக்கு  நீங்களே Beautician Makeup ஆர்டரை எடுக்கலாம்",
+      "உங்கள் வீட்டு நிகழ்ச்சிகளுக்கு  நீங்களே  'Makeup' செய்து கொள்ளலாம்",
+      "நீங்கள் RMASல் பயிற்சியாளராக பணியாற்றலாம்"
+    ]
+  }
+  }
+  
